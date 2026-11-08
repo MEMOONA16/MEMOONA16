@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MEMOONA16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Software Engineering Graduate | Master's Student in Human-Computer Interaction (HCI) at the University of Siegen, Germany 🇩🇪
 
-<!---
-MEMOONA16/MEMOONA16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in UI/UX Design, Machine Learning, Data Analysis, and Software Development. Passionate about building user-centered solutions and exploring new technologies.
+
+**Tech Stack:** Python | SQL | JavaScript | HTML/CSS | Java | C++ | Pandas | NumPy | Scikit-learn | TensorFlow | Git & GitHub
